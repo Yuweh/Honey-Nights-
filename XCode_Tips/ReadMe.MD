@@ -47,3 +47,28 @@ Tip 009:ssue Navigator. View issues such as diagnostics, warnings, and errors fo
 Tip 010:Test Navigator. Create, manage, run, and review unit tests. You will use it to create test targets and run tests on your app.
 - The Test Navigator iterates through methods to see if they have the right syntax and make sense.
 
+---
+
+Tip 011:
+Tip 012:
+Tip 013:
+Tip 014:
+Tip 015:
+Tip 016:
+Tip 017:
+Tip 018:
+Tip 019:
+Tip 020:
+
+---
+
+Tip 021:
+Tip 022:
+Tip 023:
+Tip 024:
+Tip 025:
+Tip 026:
+Tip 027:
+Tip 028:
+Tip 029:
+Tip 030:
